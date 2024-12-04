@@ -1,7 +1,7 @@
 # CareerPredictor
 
-A machine learning project designed to predict job placement outcomes for graduates using logistic regression. 
-- This project demonstrates skills in data preprocessing, exploratory data analysis (EDA), and predictive modeling to uncover actionable insights.
+A machine learning project designed to predict job placement outcomes for graduates using logistic regression.  
+This project demonstrates skills in data preprocessing, exploratory data analysis (EDA), and predictive modeling to uncover actionable insights.
 
 ---
 
