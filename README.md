@@ -6,7 +6,7 @@
 
 
 A project utilizing custom-built **AI** and **Machine Learning** techniques, specifically Logistic Regression, to predict graduate job placements.  
-This work highlights expertise in data preprocessing, exploratory analysis, and building predictive models to uncover actionable insights.
+This work highlights expertise in data preprocessing, exploratory data analysis (EDA), and predictive modeling, showcasing the ability to uncover and generate actionable insights.
 
 ---
 ## **Overview**
