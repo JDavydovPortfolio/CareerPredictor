@@ -1,7 +1,6 @@
 # CareerPredictor
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)  
-![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
 
 
 
