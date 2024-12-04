@@ -1,7 +1,7 @@
 # CareerPredictor
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-blue)  
-
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
 
 
 A project utilizing custom-built **AI** and **Machine Learning** techniques, specifically Logistic Regression, to predict graduate job placements.  
