@@ -1,14 +1,13 @@
 # CareerPredictor
-
-![Python](https://img.shields.io/badge/Made%20with-Python-blue)  
-![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
-
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 A project utilizing custom-built **AI** and **Machine Learning** techniques, specifically Logistic Regression, to predict graduate job placements.  
 This work highlights expertise in data preprocessing, exploratory data analysis (EDA), and predictive modeling, showcasing the ability to uncover and generate actionable insights.
 
 ---
 ## **Overview**
+![Python](https://img.shields.io/badge/Made%20with-Python-blue)  
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)  
 
 This project analyzes factors influencing job placements for graduates, including academic performance, specialization, and work experience. Built using **Python** in an interactive **Jupyter Notebook** environment, it leverages powerful libraries for data preprocessing, visualization, and machine learning. Using logistic regression, the model classifies students as `Placed` or `Not Placed`, providing a data-driven approach to understanding placement trends.
 
