@@ -1,13 +1,17 @@
 # CareerPredictor
 
-A machine learning project designed to predict job placement outcomes for graduates using logistic regression.  
-This project demonstrates skills in data preprocessing, exploratory data analysis (EDA), and predictive modeling to uncover actionable insights.
+![Python](https://img.shields.io/badge/Made%20with-Python-blue)  
+![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter%20Notebook-orange)
+
+
+
+A project utilizing custom-built **AI** and **Machine Learning** techniques, specifically Logistic Regression, to predict graduate job placements.  
+This work highlights expertise in data preprocessing, exploratory analysis, and building predictive models to uncover actionable insights.
 
 ---
-
 ## **Overview**
 
-This project analyzes factors influencing job placements for graduates, including academic performance, specialization, and work experience. Using logistic regression, the model classifies students as `Placed` or `Not Placed`, providing a data-driven approach to understanding placement trends.
+This project analyzes factors influencing job placements for graduates, including academic performance, specialization, and work experience. Built using **Python** in an interactive **Jupyter Notebook** environment, it leverages powerful libraries for data preprocessing, visualization, and machine learning. Using logistic regression, the model classifies students as `Placed` or `Not Placed`, providing a data-driven approach to understanding placement trends.
 
 ---
 
@@ -76,11 +80,17 @@ This project uses the following Python libraries:
    git clone https://github.com/PredictAnalytics/CareerPredictor.git
    cd CareerPredictor
 2. Install the required Python libraries:
+    ```bash
    pip install -r requirements.txt
-3. Open the Jupyter Notebook:
-   jupyter notebook CareerPredictor.ipynb
+4. Open the Jupyter Notebook File:
+ CareerPredictor.ipynb
 
 Run the notebook to explore the analysis, model, and results.
+
+## **Explore and Run the Notebook Live!**
+
+View the interactive Jupyter Notebook directly on GitHub:
+[CareerPredictor.ipynb](./CareerPredictor.ipynb)
 
 
 ## **Contact**
