@@ -86,6 +86,11 @@ This project uses the following Python libraries:
 Run the notebook to explore the analysis, model, and results.
 
 
+## **Explore and Run the Notebook Live!**
+
+View the interactive Jupyter Notebook directly on GitHub:
+[CareerPredictor.ipynb](./CareerPredictor.ipynb)
+
 
 ## **Contact**
 Feel free to connect or collaborate:
