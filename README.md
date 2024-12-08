@@ -95,6 +95,6 @@ View the interactive Jupyter Notebook directly on GitHub:
 ## **Contact**
 Feel free to connect or collaborate:
 - **GitHub:**
-[PredictAnalytics](https://github.com/PredictAnalytics) 
+[JDavydovPortfolio](https://github.com/JDavydovPortfolio) 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16"/>  **LinkedIn: [Joshua Davydov](https://www.linkedin.com/in/joshua-davydov/)**
 
