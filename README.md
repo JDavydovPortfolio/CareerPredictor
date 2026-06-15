@@ -74,16 +74,21 @@ This project uses the following Python libraries:
 ## **How to Run**
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/JDavydovPortfolio/CareerPredictor.git
-   cd CareerPredictor
-2. Install the required Python libraries:
-    ```bash
-   pip install -r requirements.txt
-4. Open the Jupyter Notebook File:
- CareerPredictor.ipynb
 
-Run the notebook to explore the analysis, model, and results.
+```bash
+git clone https://github.com/JDavydovPortfolio/CareerPredictor.git
+cd CareerPredictor
+```
+
+2. Install the required Python libraries:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open `CareerPredictor.ipynb` in Jupyter Notebook.
+
+4. Run the notebook to explore the analysis, model, and results.
 
 
 ## **Explore and Run the Notebook Live!**
