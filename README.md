@@ -75,7 +75,7 @@ This project uses the following Python libraries:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PredictAnalytics/CareerPredictor.git
+   git clone https://github.com/JDavydovPortfolio/CareerPredictor.git
    cd CareerPredictor
 2. Install the required Python libraries:
     ```bash
